@@ -1,8 +1,8 @@
-# Rithik BunnyLOL
+# bunnylol
 
 While I was at Facebook, I heavily used the internally developed tool `bunnylol`. I found several other versions of `bunnylol` that required me to host a server. This version of `bunnylol` *does not* need to be hosted on a server.
 
-Currently, this is hosted on [https://rithik.me/bunnylol](https://rithik.me/bunnylol). However, you can host it on any website that you would like (even on GitHub Pages). Since this is going to be your primary search engine for every new tab you open, I would suggest that you don't host it somewhere that may take a while to spin up the static page (like Heroku where your VM could go to sleep).
+Currently, this is hosted on [https://rithik.me/bunnylol](https://rithik.me/bunnylol). It will move to [https://ivanleon.net/bunnylol](https://ivanleon.net/bunnylol) soon. However, you can host it on any website that you would like (even on GitHub Pages). Since this is going to be your primary search engine for every new tab you open, I would suggest that you don't host it somewhere that may take a while to spin up the static page (like Heroku where your VM could go to sleep).
 
 A note: a lot of these commands are customized for me. It is probably most beneficial for you to fork this repo and add/remove commands so that it is optimized for commands you actually need.
 
@@ -46,7 +46,7 @@ DEFAULT | Default - Google Search | [https://google.com/](https://google.com/)
 
 2. Click `Manage Search Engines`.
 
-3. Add a new search engine with the URL being `http://rithik.me/bunnylol?search=%s`. Of course, you should change the `rithik.me` part to your own domain.
+3. Add a new search engine with the URL being `http://ivanleon.net/bunnylol?search=%s`. Of course, you should change the `rithik.me` part to your own domain.
 
 4. Make this the default search engine.
 
